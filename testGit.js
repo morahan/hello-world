@@ -52,7 +52,7 @@
 //
 // let mike = new Musician("Mike", "Morahan", ["Walking On Mars", "Minor Ting"]);
 
-console.log(mike)
+// console.log(mike)
 
 
 
@@ -82,4 +82,6 @@ console.log(mike)
 
 
 
-let var newMessage = "this is something new";
+let newMessage = "this is something new";
+newMessage = "brand new";
+console.log(newMessage);
